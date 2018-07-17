@@ -6,7 +6,7 @@ class App < Sinatra::Base
     erb :food_form
   end
 
-  <form>
+<form>
   <p>Your Name: <input type="text"></p>
   <p>Your Favorite Food: <input type="text"></p>
   <input type="submit">
